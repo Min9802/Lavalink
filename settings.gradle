@@ -3,3 +3,4 @@ include ':Lavalink-Server'
 include ':Testbot'
 
 project(':Lavalink-Server').projectDir = "$rootDir/LavalinkServer" as File
+
