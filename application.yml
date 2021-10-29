@@ -1,9 +1,9 @@
 server: # REST and WS server
   port: 3392 #define port
-  address: 0.0.0.0
+  address: 127.0.0.1
 lavalink:
   server:
-    password: "password" #change password here
+    password: "Min2302" #change password here
     sources:
       youtube: true
       bandcamp: true
